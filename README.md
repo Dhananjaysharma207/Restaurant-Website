@@ -27,7 +27,7 @@ https://paradise-restaurant.azurewebsites.net
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots 📸
-### Home page -   
+
 ![1](https://user-images.githubusercontent.com/92742019/153176443-367067a5-6d66-4aa6-81d4-688f9d465ff4.PNG)
 ![2](https://user-images.githubusercontent.com/92742019/153176573-38aa9be4-1ee9-403e-be1f-eff4b906b7f8.PNG)
 ![3](https://user-images.githubusercontent.com/92742019/153176613-f9548d6b-51ee-46b7-8676-cb4e6f1ef51a.PNG)
