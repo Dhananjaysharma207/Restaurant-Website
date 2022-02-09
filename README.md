@@ -38,6 +38,10 @@ https://paradise-restaurant.azurewebsites.net
 
 
 ### Team page -
+![t1](https://user-images.githubusercontent.com/92742019/153179794-7de82399-c2e3-4738-b765-32c819e4a550.PNG)
+![t2](https://user-images.githubusercontent.com/92742019/153179818-f1cc75de-c5bf-41fd-ba36-808659cc46c0.PNG)
+![t3](https://user-images.githubusercontent.com/92742019/153179847-6c25b00f-c8d5-4e1f-8a5a-ec4032d06cb7.PNG)
+![t4](https://user-images.githubusercontent.com/92742019/153179873-82361ea1-8085-4314-ad14-c42069c8f355.PNG)
 
 ### Contact page -
 
